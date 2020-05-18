@@ -5,8 +5,8 @@ Existing timers are either too bloated and built with silly frameworks for such 
 ## Usage
 Just download and run `pechatimer.py`
 The following command line arguments are available:
-+ `-d seconds` denotes the time the zero'th(title) slide should run for. 
-+ `--no-zero-slide` starts the timer without the zero'th slide
++ `-d seconds` denotes the time the zeroth(title) slide should run for. 
++ `--no-zero-slide` starts the timer without the zeroth slide
 
 ## TODO
 + package and upload to pypi
