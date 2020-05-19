@@ -73,3 +73,5 @@ class Pktimer():
 
 def main():
     pktimer = Pktimer(sys.argv[1:])
+if __name__=='__main__':
+    main()
