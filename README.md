@@ -16,7 +16,6 @@ The following command line arguments are available:
 + `--no-zero-slide` starts the timer without the zeroth slide
 
 ## TODO
-+ package and upload to pypi
 + more options to fine-tune variables like time/slide.
 
 
