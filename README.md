@@ -1,3 +1,5 @@
+# Development of this project has moved to [gitlab](https://gitlab.com/esrh/pktktimer)
+
 # pktktimer
 I didn't like any existing pecha kucha timers, so I made my own. 
 Existing timers are either too bloated and built with silly frameworks for such a simple application, or didn't have the features I wanted, like title slide delays.
